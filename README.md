@@ -19,6 +19,8 @@ This project is developed for the **UNU Global Youth AI Future Innovation Compet
 ## Attention
 If you cannot have access the notebook via GitHub, this is about GitHub. Please try to download it.
 
+## LICENSE
+Please read the license.
 
 ## About the User Interface 
 
